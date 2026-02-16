@@ -1,16 +1,32 @@
 ## Hi there 👋
+Eu sou um programador em transição de carreira, no DevClub criei projetos com:
+<br>
+<br>
+<p align="left">
 
-<!--
-**Luisalmeidajr/Luisalmeidajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="63" height="64" alt="HTML5 Powered" title="HTML5 Powered">
 
-Here are some ideas to get you started:
+<img src="http://dev.iamvdo.me/css3.png" alt="css3 Rocks"  width="63" height="64" alt="CSS3-LOGO Powered " title="CSS3 Powered"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conetcte comigo:
+<p>
+  <a href="https://www.linkedin.com/in/luis-roberto-almeida-7867b2383/">
+  <img algin="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+<br />
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
+
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+
+<h3 align="left">linguagens e ferramentas:</h3>
+    <p align="left">
+        <h4 align="left">Habilidade Média:</h4>
+        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+        <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
+        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+
+</p>
+<figure>
