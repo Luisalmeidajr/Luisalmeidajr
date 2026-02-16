@@ -1,5 +1,5 @@
 ## Olá 👋
-Eu sou um programador em transição de carreira, no DevClub criei projetos com:
+Eu sou um programador em transição de carreira, estudando JavaScript, atualmente no DevClub criei projetos com:
 <br>
 <br>
 <p align="left">
