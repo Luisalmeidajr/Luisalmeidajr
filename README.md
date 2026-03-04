@@ -12,8 +12,9 @@ Eu sou um programador em transição de carreira, estudando JavaScript, atualmen
 ### Conetcte comigo:
 <p>
   <a href="https://www.linkedin.com/in/luis-roberto-almeida-7867b2383/">
-  <img algin="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <img algin="left" alt="Linkedin" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /a>
+  <a href="https://www.instagram.com/luis.robertojr/"/a> 
+  <img algin= "left" alt="Instagram" width="100px" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /a>
 </p>
 <br />
 
@@ -21,7 +22,7 @@ Eu sou um programador em transição de carreira, estudando JavaScript, atualmen
 
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
-<h3 align="left">linguagens e ferramentas:</h3>
+<h3 align="left"> linguagens e ferramentas: </h3>
     <p align="left">
         <h4 align="left">Habilidade Média:</h4>
         <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
